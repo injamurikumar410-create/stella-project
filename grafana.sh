@@ -1,1 +1,1 @@
-hi im sanjay
+uptime
